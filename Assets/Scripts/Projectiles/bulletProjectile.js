@@ -24,7 +24,7 @@ public class bulletProjectile extends MonoBehaviour implements Projectile{
 	}
 	
 	function OnTriggerEnter2D(coll : Collider2D){
-		if( coll.gameObject.name == "asteroid"){
+		if( coll.GetComponent("basicEnemy")){
 			coll.gameObject.GetComponent(basicEnemy).hit(damage);
 			destroy();
 		};

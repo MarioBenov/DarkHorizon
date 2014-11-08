@@ -5,7 +5,7 @@ public class basicEnemy extends MonoBehaviour{
 
 	public var player : GameObject;
 	
-	public var speed : Vector2;
+	public var speed : float;
 	
 	public var direction : float;
 	
@@ -14,8 +14,10 @@ public class basicEnemy extends MonoBehaviour{
 	public var hitDamage : int;
 	
 	function Start () {
-		speed = player.transform.position - transform.position;
-		rigidbody2D.velocity = speed;
+		//speed = player.transform.position - transform.position;
+		//rigidbody2D.velocity = Vector2(0, speed) + (player.transform.position - transform.position).normalized;
+		rigidbody2D.velocity = (player.transform.position - transform.position).normalized * speed;
+		//Debug.Log(player.transform.position - transform.position);
 	}
 
 	function Update () {
