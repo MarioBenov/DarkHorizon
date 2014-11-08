@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Enemies\basicEnemy.js">
+    <Files>
+      <File FileName="Assets\Scripts\Pickup\pickup.js" Line="4" Column="46" />
+      <File FileName="Assets\Scripts\Pickup\healthPickup.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\playerController.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Projectiles\bulletProjectile.js" Line="6" Column="1" />
+      <File FileName="Assets\Scripts\Game\backgroundGenerator.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Projectiles\projectile.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game\cameraCollision.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemies\basicEnemy.js" Line="11" Column="58" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
