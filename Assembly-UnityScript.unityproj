@@ -52,6 +52,7 @@
      <Compile Include="Assets\Scripts\Game\cameraCollision.js" />
      <Compile Include="Assets\Scripts\Game\cameraEffects.js" />
      <Compile Include="Assets\Scripts\Game\enemyGenerator.js" />
+     <Compile Include="Assets\Scripts\Game\gameManager.js" />
      <Compile Include="Assets\Scripts\Game\gameUI.js" />
      <Compile Include="Assets\Scripts\Game\runawayCatcher.js" />
      <Compile Include="Assets\Scripts\Pickup\healthPickup.js" />

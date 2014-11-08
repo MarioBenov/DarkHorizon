@@ -66,4 +66,5 @@ function hit(damage : int){
 }
 
 function die(){
+	Destroy(this);
 }

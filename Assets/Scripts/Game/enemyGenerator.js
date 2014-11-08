@@ -52,3 +52,12 @@ function OnTriggerExit2D(coll : Collider2D){
 		areaBoundry.radius *= areaDistanceModulo;
 	}
 }
+
+function destroy(){
+	spawnDefinitions = [];
+	for(var enemy in enemyContainer.transform){
+		Debug.Log(enemy);
+		//enemy.gameObject.GetComponent("basicEnemy").destroy();
+	}
+	Destroy(this);
+}

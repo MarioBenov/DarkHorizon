@@ -4,21 +4,21 @@ public class enemyShip extends basicEnemy {
 	public var projectile : Projectile;
 	
 	function Start () {
-		//speed = player.transform.position - transform.position;
-		//transform.LookAt(player.transform);
-		//Debug.Log(Vector3.Angle(transform.position, player.transform.position));
-		//transform.Rotate(0,0,360 - Vector3.Angle(transform.position, player.transform.position));
-		//rigidbody2D.velocity = Vector2(0, speed) + (player.transform.position - transform.position).normalized;
 		rigidbody2D.velocity = (player.transform.position - transform.position).normalized * speed;
-		//transform.rotation = Quaternion.LookRotation(rigidbody2D.velocity);
-		//transform.Rotate(rigidbody2D.velocity);
-		//Debug.Log(player.transform.position - transform.position);
 	}
 
 	function Update () {
 		rigidbody2D.velocity = (player.transform.position - transform.position).normalized * speed;
-		//transform.rotation = (rigidbody2D.velocity);
-		Debug.Log();
+		//transform.rotation = 
+		Debug.Log(Mathf.Rad2Deg * Mathf.Atan2(rigidbody2D.velocity.y - player.transform.position.y, rigidbody2D.velocity.x - player.transform.position.x));
+		//transform.Rotate(transform.eulerAngles - Vector3(0, 0, Vector3.Angle(rigidbody2D.velocity, player.transform.position)));
+		//var deg = Vector3.Angle(rigidbody2D.velocity, player.transform.position);
+		//transform.localEulerAngles = Vector3(0,0, deg);
+		Debug.Log(rigidbody2D.velocity);
+		Debug.Log(player.transform.position);
+		Debug.Log(Vector3.Angle(transform.position, player.transform.position));
+		
+		transform.rotation.eulerAngles = Vector3(0, 0, Vector3.Angle(transform.position, player.transform.position));
 	}
 	
 	function OnCollisionEnter2D(coll : Collision2D){
