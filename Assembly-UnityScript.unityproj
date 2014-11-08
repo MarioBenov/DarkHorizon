@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Enemies\basicEnemy.js" />
+     <Compile Include="Assets\Scripts\Enemies\enemyShip.js" />
      <Compile Include="Assets\Scripts\Game\backgroundGenerator.js" />
      <Compile Include="Assets\Scripts\Game\cameraCollision.js" />
      <Compile Include="Assets\Scripts\Game\cameraEffects.js" />
@@ -59,6 +60,8 @@
      <Compile Include="Assets\Scripts\Projectiles\bulletProjectile.js" />
      <Compile Include="Assets\Scripts\Projectiles\pinkLazer.js" />
      <Compile Include="Assets\Scripts\Projectiles\projectile.js" />
+     <Compile Include="Assets\Scripts\Projectiles\rocketLauncher.js" />
+     <Compile Include="Assets\Scripts\Projectiles\rocketProjectile.js" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

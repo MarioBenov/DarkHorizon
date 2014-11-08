@@ -1,29 +1,24 @@
 ﻿#pragma strict
 
-public class basicEnemy extends MonoBehaviour{
-	public var isEnemy : boolean = true;
-
-	public var player : GameObject;
-	
-	public var speed : float;
-	
-	public var direction : float;
-	
-	public var health : int;
-	
-	public var hitDamage : int;
+public class enemyShip extends basicEnemy {
+	public var projectile : Projectile;
 	
 	function Start () {
 		//speed = player.transform.position - transform.position;
-		//transform.Rotate( 0, 0, Vector2.Angle(transform.position, player.transform.position));
+		//transform.LookAt(player.transform);
+		//Debug.Log(Vector3.Angle(transform.position, player.transform.position));
+		//transform.Rotate(0,0,360 - Vector3.Angle(transform.position, player.transform.position));
 		//rigidbody2D.velocity = Vector2(0, speed) + (player.transform.position - transform.position).normalized;
 		rigidbody2D.velocity = (player.transform.position - transform.position).normalized * speed;
-		
+		//transform.rotation = Quaternion.LookRotation(rigidbody2D.velocity);
+		//transform.Rotate(rigidbody2D.velocity);
 		//Debug.Log(player.transform.position - transform.position);
 	}
 
 	function Update () {
-		//rigidbody2D.velocity = player.transform.position - transform.position;
+		rigidbody2D.velocity = (player.transform.position - transform.position).normalized * speed;
+		//transform.rotation = (rigidbody2D.velocity);
+		Debug.Log();
 	}
 	
 	function OnCollisionEnter2D(coll : Collision2D){

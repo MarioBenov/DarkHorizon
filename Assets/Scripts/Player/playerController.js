@@ -32,7 +32,18 @@ function Update () {
 	//Debug.Log(rigidbody2D.rotation);
 	if(Input.GetAxis("Fire")){
 		for(var weapon in weapons){
-			weapon.GetComponent(pinkLazer).fire(transform.position, transform.rotation);
+			if(weapon.GetComponent(pinkLazer)){
+				weapon.GetComponent(pinkLazer).fire(transform.position, transform.rotation);
+			}
+			//Debug.Log(weapon);
+		}
+	}
+	
+	if(Input.GetAxis("FireRocket")){
+		for(var weapon in weapons){
+			if(weapon.GetComponent(rocketLauncher)){
+				weapon.GetComponent(rocketLauncher).fire(transform.position, transform.rotation);
+			}
 			//Debug.Log(weapon);
 		}
 	}
