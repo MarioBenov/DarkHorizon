@@ -2,17 +2,18 @@ Initialize engine version: 4.5.5f1 (7684ad0c5a44)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
-    Renderer: NVIDIA GeForce GT 755M  (ID=0xfcd)
+    Renderer: NVIDIA GeForce GT 755M (ID=0xfcd)
     Vendor:   NVIDIA
-    VRAM:     1988 MB
+    VRAM:     1985 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Valery\Documents\Dark Horizon\Build\DarkHorizon_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Valery\Documents\Dark Horizon\Build\DarkHorizon_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Valery\Documents\Dark Horizon\Build\DarkHorizon_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading C:\Users\Valery\Documents\Dark Horizon\Build\DarkHorizon_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-- Completed reload, in  0.037 seconds
-desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+Platform assembly: E:\Unity\DarkHorizon\Build\DarkHorizon_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Unity\DarkHorizon\Build\DarkHorizon_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Unity\DarkHorizon\Build\DarkHorizon_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\Unity\DarkHorizon\Build\DarkHorizon_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.141 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
+XInput1_3.dll not found.
 <RI> Input initialized.
 Default clip could not be found in attached animations list.
  
@@ -30,20 +31,10 @@ Default clip could not be found in attached animations list.
  
 (Filename:  Line: 395)
 
-Default clip could not be found in attached animations list.
+Platform assembly: E:\Unity\DarkHorizon\Build\DarkHorizon_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: E:\Unity\DarkHorizon\Build\DarkHorizon_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: E:\Unity\DarkHorizon\Build\DarkHorizon_Data\Managed\System.Core.dll (this message is harmless)
+15
  
-(Filename:  Line: 395)
-
-Platform assembly: C:\Users\Valery\Documents\Dark Horizon\Build\DarkHorizon_Data\Managed\Boo.Lang.dll (this message is harmless)
-Platform assembly: C:\Users\Valery\Documents\Dark Horizon\Build\DarkHorizon_Data\Managed\UnityScript.Lang.dll (this message is harmless)
-Platform assembly: C:\Users\Valery\Documents\Dark Horizon\Build\DarkHorizon_Data\Managed\System.Core.dll (this message is harmless)
-NullReferenceException: Object reference not set to an instance of an object
-  at cameraCollision.OnTriggerExit2D (UnityEngine.Collider2D coll) [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at cameraCollision.OnTriggerExit2D (UnityEngine.Collider2D coll) [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 

@@ -70,6 +70,7 @@ function Update () {
 			var key = i+"-" + k;
 			if(!tiles.ContainsKey(key)){
 				var newTile : GameObject = Instantiate(tile, Vector3(i * tileSize.x, k * tileSize.y , 0), Quaternion.identity);
+				newTile.transform.parent = transform;
 				newHash.Add(key, newTile);
 			} else {
 				newHash.Add(key, tiles[key]);

@@ -1,6 +1,8 @@
 ﻿#pragma strict
 
 public class basicEnemy extends MonoBehaviour{
+	public var isEnemy : boolean = true;
+
 	public var player : GameObject;
 	
 	public var speed : Vector2;

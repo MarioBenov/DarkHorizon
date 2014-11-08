@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{70A6AB67-D76F-4B55-A245-AC7DEC3F574D}</ProjectGuid>
+	<ProjectGuid>{297F6FF6-8965-8F15-0E13-DDB12B8A6651}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -39,17 +39,20 @@
 	<Reference Include="System.Core" />
 	<Reference Include="System.Xml.Linq" />
 	<Reference Include="UnityEngine">
-	  <HintPath>F:/Apps/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
 	</Reference>
 	<Reference Include="UnityEditor">
-	  <HintPath>F:/Apps/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
 	</Reference>
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Enemies\basicEnemy.js" />
      <Compile Include="Assets\Scripts\Game\backgroundGenerator.js" />
      <Compile Include="Assets\Scripts\Game\cameraCollision.js" />
+     <Compile Include="Assets\Scripts\Game\cameraEffects.js" />
+     <Compile Include="Assets\Scripts\Game\enemyGenerator.js" />
      <Compile Include="Assets\Scripts\Game\gameUI.js" />
+     <Compile Include="Assets\Scripts\Game\runawayCatcher.js" />
      <Compile Include="Assets\Scripts\Pickup\healthPickup.js" />
      <Compile Include="Assets\Scripts\Pickup\pickup.js" />
      <Compile Include="Assets\Scripts\Player\playerController.js" />
