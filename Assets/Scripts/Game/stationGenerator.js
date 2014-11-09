@@ -14,6 +14,7 @@ var findStationMessage : GUIText;
 var messageDuration : float;
 private var messageElapsed : float = 0;
 
+var objectiveArrow : objectiveArrow;
 function Start(){
 	
 }
@@ -36,6 +37,7 @@ function Update1() {
 		instance.gameObject.GetComponent(spaceStation).manager = gameManager;
 		updateFunc = Update2;
 		findStationMessage.gameObject.SetActive(true);
+		objectiveArrow.setTarget(instance.transform);
 	}
 }
 

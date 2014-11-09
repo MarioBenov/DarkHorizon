@@ -1,12 +1,11 @@
 ﻿#pragma strict
 
 
-public class healthPickup extends MonoBehaviour implements Pickup{
-	public var player : GameObject;
+public class healthPickup extends pickupBase{
 	public var health : int;
 
 	function OnTriggerEnter2D(coll : Collider2D){
-		if(coll.gameObject == player){
+		if(coll.gameObject == player.gameObject){
 			player.GetComponent(playerController).repair(health);
 			
 			var children = transform.childCount;

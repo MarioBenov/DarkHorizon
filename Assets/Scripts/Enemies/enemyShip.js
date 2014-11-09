@@ -49,14 +49,6 @@ public class enemyShip extends basicEnemy {
 		Destroy(gameObject);
 	}
 	
-	function hit(damage : int){
-		Debug.Log(damage);
-		health -= damage;
-		if(health < 0){
-			die();
-		}
-	}
-	
 	function die(){
 		Instantiate(explosion, transform.position, transform.rotation);
 	

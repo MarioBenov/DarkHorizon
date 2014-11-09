@@ -58,6 +58,10 @@ function repair(additionalHealth : int){
 	}
 }
 
+function addAmmo(amount : int){
+	rockets += amount;
+}
+
 function addPoints(amount : int){
 	money += amount;
 }

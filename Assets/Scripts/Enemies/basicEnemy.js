@@ -20,7 +20,8 @@ public class basicEnemy extends MonoBehaviour{
 		//transform.Rotate( 0, 0, Vector2.Angle(transform.position, player.transform.position));
 		//rigidbody2D.velocity = Vector2(0, speed) + (player.transform.position - transform.position).normalized;
 		rigidbody2D.velocity = (player.transform.position - transform.position).normalized * speed;
-		
+		rigidbody2D.rotation = Mathf.Atan2(player.transform.position.y - transform.position.y,
+			player.transform.position.x - transform.position.x) * (180 / Mathf.PI) + 270;
 		//Debug.Log(player.transform.position - transform.position);
 	}
 
@@ -55,6 +56,7 @@ public class basicEnemy extends MonoBehaviour{
 		Debug.Log(damage);
 		health -= damage;
 		if(health < 0){
+			player.GetComponent(playerController).addPoints(pointValue);
 			die();
 		}
 	}
@@ -62,7 +64,6 @@ public class basicEnemy extends MonoBehaviour{
 	function die(){
 		Instantiate(explosion, transform.position, transform.rotation);
 	
-		player.GetComponent(playerController).addPoints(pointValue);
 		destroy();
 	}
 }
