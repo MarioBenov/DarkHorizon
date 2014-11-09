@@ -1,7 +1,13 @@
 ﻿#pragma strict
 
 public class enemyShip extends basicEnemy {
-	public var projectile : Projectile;
+	public var projectile : GameObject;
+	
+	public var shotInterval : float;
+	
+	private var shotTimeout : float;
+	
+	public var maxFireDistance : float;
 	
 	function Start () {
 		rigidbody2D.velocity = (player.transform.position - transform.position).normalized * speed;
@@ -9,16 +15,15 @@ public class enemyShip extends basicEnemy {
 
 	function Update () {
 		rigidbody2D.velocity = (player.transform.position - transform.position).normalized * speed;
-		//transform.rotation = 
-		Debug.Log(Mathf.Rad2Deg * Mathf.Atan2(rigidbody2D.velocity.y - player.transform.position.y, rigidbody2D.velocity.x - player.transform.position.x));
-		//transform.Rotate(transform.eulerAngles - Vector3(0, 0, Vector3.Angle(rigidbody2D.velocity, player.transform.position)));
-		//var deg = Vector3.Angle(rigidbody2D.velocity, player.transform.position);
-		//transform.localEulerAngles = Vector3(0,0, deg);
-		Debug.Log(rigidbody2D.velocity);
-		Debug.Log(player.transform.position);
-		Debug.Log(Vector3.Angle(transform.position, player.transform.position));
-		
-		transform.rotation.eulerAngles = Vector3(0, 0, Vector3.Angle(transform.position, player.transform.position));
+		rigidbody2D.rotation = Mathf.Atan2(player.transform.position.y - transform.position.y,
+			player.transform.position.x - transform.position.x) * (180 / Mathf.PI) + 270;
+			
+		shotTimeout += Time.deltaTime;
+		if(shotTimeout >= shotInterval && (player.transform.position - transform.position).magnitude <= maxFireDistance){
+			shotTimeout = 0;
+			var instance = Instantiate(projectile, Vector3 (transform.position.x, transform.position.y, 0), transform.rotation);
+			instance.gameObject.transform.parent = GameObject.Find("Projectiles").transform;
+		}
 	}
 	
 	function OnCollisionEnter2D(coll : Collision2D){
@@ -53,6 +58,8 @@ public class enemyShip extends basicEnemy {
 	}
 	
 	function die(){
+		Instantiate(explosion, transform.position, transform.rotation);
+	
 		destroy();
 	}
 }

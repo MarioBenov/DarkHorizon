@@ -54,11 +54,14 @@
      <Compile Include="Assets\Scripts\Game\enemyGenerator.js" />
      <Compile Include="Assets\Scripts\Game\gameManager.js" />
      <Compile Include="Assets\Scripts\Game\gameUI.js" />
+     <Compile Include="Assets\Scripts\Game\mainMenu.js" />
      <Compile Include="Assets\Scripts\Game\runawayCatcher.js" />
      <Compile Include="Assets\Scripts\Pickup\healthPickup.js" />
      <Compile Include="Assets\Scripts\Pickup\pickup.js" />
      <Compile Include="Assets\Scripts\Player\playerController.js" />
      <Compile Include="Assets\Scripts\Projectiles\bulletProjectile.js" />
+     <Compile Include="Assets\Scripts\Projectiles\enemyProjectile.js" />
+     <Compile Include="Assets\Scripts\Projectiles\explosion.js" />
      <Compile Include="Assets\Scripts\Projectiles\pinkLazer.js" />
      <Compile Include="Assets\Scripts\Projectiles\projectile.js" />
      <Compile Include="Assets\Scripts\Projectiles\rocketLauncher.js" />

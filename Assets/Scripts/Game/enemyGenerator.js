@@ -29,24 +29,29 @@ function Start () {
 	spawnTimer = 0;
 	currentArea = 1;
 }
+private var stopped : boolean = false;
 
-function Update () {	
-	for(var def in spawnDefinitions){
-		if(def.difficulty <= currentArea){
-			def.lastSpawn += Time.deltaTime;
-			if(def.lastSpawn >= def.frequency) {
-				def.lastSpawn = 0;
-				var instance = Instantiate(def.prefab, Random.insideUnitCircle * areaBoundry.radius, Quaternion.identity);
-				instance.transform.parent = enemyContainer;
-				instance.GetComponent(basicEnemy).player = player.gameObject;
+function Update () {
+	if(!stopped){	
+		for(var def in spawnDefinitions){
+			if(def.difficulty <= currentArea){
+				def.lastSpawn += Time.deltaTime;
+				if(def.lastSpawn >= def.frequency) {
+					def.lastSpawn = 0;
+					var instance = Instantiate(def.prefab, Random.insideUnitCircle * areaBoundry.radius, Quaternion.identity);
+					instance.transform.parent = enemyContainer;
+					instance.GetComponent(basicEnemy).player = player.gameObject;
+				}
 			}
 		}
 	}
 }
 
+function stop(){
+	stopped = false;
+}
 
 function OnTriggerExit2D(coll : Collider2D){
-	Debug.Log(coll);
 	if(coll.gameObject == player.gameObject){
 		currentArea ++;
 		areaBoundry.radius *= areaDistanceModulo;
@@ -54,10 +59,8 @@ function OnTriggerExit2D(coll : Collider2D){
 }
 
 function destroy(){
-	spawnDefinitions = [];
-	for(var enemy in enemyContainer.transform){
-		Debug.Log(enemy);
-		//enemy.gameObject.GetComponent("basicEnemy").destroy();
+	for(var enemy : Transform in enemyContainer.transform){
+		Destroy(enemy.gameObject);
 	}
 	Destroy(this);
 }

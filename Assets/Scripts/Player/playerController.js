@@ -56,15 +56,22 @@ function repair(additionalHealth : int){
 	}
 }
 
+function addPoints(amount : int){
+	money += amount;
+}
+
 function hit(damage : int){
 	health -= damage;
 	
 	if(health < 0){
 		health = 0;
-		die();
 	}
 }
 
-function die(){
+function destroy(){
+	for(var element : Transform in transform){
+		Destroy(element.gameObject);
+	}
+
 	Destroy(this);
 }

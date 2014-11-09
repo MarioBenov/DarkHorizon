@@ -1,8 +1,6 @@
 ﻿#pragma strict
 
 public class basicEnemy extends MonoBehaviour{
-	public var isEnemy : boolean = true;
-
 	public var player : GameObject;
 	
 	public var speed : float;
@@ -12,6 +10,10 @@ public class basicEnemy extends MonoBehaviour{
 	public var health : int;
 	
 	public var hitDamage : int;
+	
+	public var pointValue : int;
+	
+	public var explosion : GameObject;
 	
 	function Start () {
 		//speed = player.transform.position - transform.position;
@@ -58,6 +60,9 @@ public class basicEnemy extends MonoBehaviour{
 	}
 	
 	function die(){
+		Instantiate(explosion, transform.position, transform.rotation);
+	
+		player.GetComponent(playerController).addPoints(pointValue);
 		destroy();
 	}
 }
