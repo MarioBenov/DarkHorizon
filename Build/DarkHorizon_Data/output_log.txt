@@ -10,17 +10,17 @@ Platform assembly: E:\Unity\DarkHorizon\Build\DarkHorizon_Data\Managed\UnityEngi
 Loading E:\Unity\DarkHorizon\Build\DarkHorizon_Data\Managed\UnityEngine.dll into Unity Child Domain
 Platform assembly: E:\Unity\DarkHorizon\Build\DarkHorizon_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
 Loading E:\Unity\DarkHorizon\Build\DarkHorizon_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-- Completed reload, in  0.190 seconds
-desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+- Completed reload, in  0.036 seconds
+desktop: 1024x768 60Hz; virtual: 1280x960 at 0,0
 <RI> Initializing input.
 XInput1_3.dll not found.
 <RI> Input initialized.
 Platform assembly: E:\Unity\DarkHorizon\Build\DarkHorizon_Data\Managed\Boo.Lang.dll (this message is harmless)
-UnloadTime: 1.094792 ms
+UnloadTime: 0.275836 ms
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 461.
-Total: 2.368771 ms (FindLiveObjects: 0.102209 ms CreateObjectMapping: 0.030791 ms MarkObjects: 0.746254 ms  DeleteObjects: 0.024803 ms)
+Total: 0.440055 ms (FindLiveObjects: 0.018816 ms CreateObjectMapping: 0.009836 ms MarkObjects: 0.128295 ms  DeleteObjects: 0.007697 ms)
 
 Platform assembly: E:\Unity\DarkHorizon\Build\DarkHorizon_Data\Managed\UnityScript.Lang.dll (this message is harmless)
 Platform assembly: E:\Unity\DarkHorizon\Build\DarkHorizon_Data\Managed\System.Core.dll (this message is harmless)
@@ -48,194 +48,6 @@ Default clip could not be found in attached animations list.
  
 (Filename:  Line: 395)
 
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
 The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
  
 (Filename:  Line: 1998)
@@ -248,14 +60,6 @@ Default clip could not be found in attached animations list.
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
 10
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
@@ -263,14 +67,6 @@ Default clip could not be found in attached animations list.
 Default clip could not be found in attached animations list.
  
 (Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
 The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
  
@@ -280,19 +76,7 @@ Default clip could not be found in attached animations list.
  
 (Filename:  Line: 395)
 
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
  
 (Filename:  Line: 1998)
 
@@ -312,54 +96,10 @@ Default clip could not be found in attached animations list.
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
 10
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
 Default clip could not be found in attached animations list.
  
 (Filename:  Line: 395)
@@ -379,194 +119,6 @@ The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(
 Default clip could not be found in attached animations list.
  
 (Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
 10
  
@@ -592,45 +144,9 @@ Default clip could not be found in attached animations list.
  
 (Filename:  Line: 395)
 
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+10
  
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
 The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
  
@@ -644,65 +160,17 @@ Default clip could not be found in attached animations list.
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
 Default clip could not be found in attached animations list.
  
 (Filename:  Line: 395)
 
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+10
  
-(Filename:  Line: 1998)
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Default clip could not be found in attached animations list.
+10
  
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
 Default clip could not be found in attached animations list.
  
@@ -724,7 +192,15 @@ Default clip could not be found in attached animations list.
  
 (Filename:  Line: 395)
 
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
  
 (Filename:  Line: 1998)
 
@@ -732,9 +208,17 @@ Default clip could not be found in attached animations list.
  
 (Filename:  Line: 395)
 
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
+Default clip could not be found in attached animations list.
  
-(Filename:  Line: 1998)
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
 
 Default clip could not be found in attached animations list.
  
@@ -796,34 +280,6 @@ Default clip could not be found in attached animations list.
  
 (Filename:  Line: 395)
 
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
 Default clip could not be found in attached animations list.
  
 (Filename:  Line: 395)
@@ -852,70 +308,6 @@ Default clip could not be found in attached animations list.
  
 (Filename:  Line: 395)
 
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
 The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
  
 (Filename:  Line: 1998)
@@ -932,27 +324,23 @@ Default clip could not be found in attached animations list.
  
 (Filename:  Line: 395)
 
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+10
  
-(Filename:  Line: 1998)
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+40
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
 Default clip could not be found in attached animations list.
  
 (Filename:  Line: 395)
 
 The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
  
 (Filename:  Line: 1998)
 
@@ -961,14 +349,6 @@ Default clip could not be found in attached animations list.
 (Filename:  Line: 395)
 
 The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
  
 (Filename:  Line: 1998)
 
@@ -1048,6 +428,10 @@ Default clip could not be found in attached animations list.
  
 (Filename:  Line: 395)
 
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
 The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
  
 (Filename:  Line: 1998)
@@ -1063,18 +447,6 @@ The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_
 Default clip could not be found in attached animations list.
  
 (Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
 
 Default clip could not be found in attached animations list.
  
@@ -1087,50 +459,6 @@ The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid
 Default clip could not be found in attached animations list.
  
 (Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
 
 Default clip could not be found in attached animations list.
  
@@ -1184,50 +512,6 @@ Default clip could not be found in attached animations list.
  
 (Filename:  Line: 395)
 
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
 Default clip could not be found in attached animations list.
  
 (Filename:  Line: 395)
@@ -1248,346 +532,6 @@ Default clip could not be found in attached animations list.
  
 (Filename:  Line: 395)
 
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-UnloadTime: 1.549815 ms
-Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 152 unused Assets to reduce memory usage. Loaded Objects now: 110.
-Total: 1.769201 ms (FindLiveObjects: 0.026942 ms CreateObjectMapping: 0.023520 ms MarkObjects: 0.277546 ms  DeleteObjects: 0.520026 ms)
-
-UnloadTime: 0.671415 ms
-Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 461.
-Total: 1.377471 ms (FindLiveObjects: 0.053884 ms CreateObjectMapping: 0.045331 ms MarkObjects: 0.322022 ms  DeleteObjects: 0.021382 ms)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
 Default clip could not be found in attached animations list.
  
 (Filename:  Line: 395)
@@ -1607,18 +551,6 @@ The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(
 Default clip could not be found in attached animations list.
  
 (Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
 
 Default clip could not be found in attached animations list.
  
@@ -1673,30 +605,6 @@ Default clip could not be found in attached animations list.
 (Filename:  Line: 395)
 
 The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
  
 (Filename:  Line: 1998)
 
@@ -1775,274 +683,6 @@ The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(
 Default clip could not be found in attached animations list.
  
 (Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
 
 Default clip could not be found in attached animations list.
  
@@ -2052,1457 +692,1461 @@ Player (UnityEngine.GameObject)
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
- 
-(Filename:  Line: 1998)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-UnloadTime: 1.501490 ms
+UnloadTime: 0.453312 ms
 Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 152 unused Assets to reduce memory usage. Loaded Objects now: 110.
-Total: 1.777754 ms (FindLiveObjects: 0.026942 ms CreateObjectMapping: 0.023948 ms MarkObjects: 0.262151 ms  DeleteObjects: 0.531145 ms)
+Total: 0.607695 ms (FindLiveObjects: 0.008980 ms CreateObjectMapping: 0.008125 ms MarkObjects: 0.097504 ms  DeleteObjects: 0.183890 ms)
+
+UnloadTime: 0.244617 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 461.
+Total: 0.469563 ms (FindLiveObjects: 0.017961 ms CreateObjectMapping: 0.010263 ms MarkObjects: 0.129151 ms  DeleteObjects: 0.007697 ms)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+UnloadTime: 1.291085 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 152 unused Assets to reduce memory usage. Loaded Objects now: 109.
+Total: 2.175899 ms (FindLiveObjects: 0.026086 ms CreateObjectMapping: 0.023520 ms MarkObjects: 0.274125 ms  DeleteObjects: 0.851885 ms)
+
+UnloadTime: 0.656447 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 461.
+Total: 1.438197 ms (FindLiveObjects: 0.056022 ms CreateObjectMapping: 0.031646 ms MarkObjects: 0.370347 ms  DeleteObjects: 0.023093 ms)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+40
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+40
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+40
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteeroid_3(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid_2(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+The AnimationClip 'asteroidAnimation' used by the Animation component 'asteroid(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+UnloadTime: 1.224371 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 152 unused Assets to reduce memory usage. Loaded Objects now: 110.
+Total: 1.911610 ms (FindLiveObjects: 0.027369 ms CreateObjectMapping: 0.025231 ms MarkObjects: 0.248466 ms  DeleteObjects: 0.519598 ms)
 
