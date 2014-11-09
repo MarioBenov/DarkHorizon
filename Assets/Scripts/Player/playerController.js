@@ -13,6 +13,8 @@ var maxHealth : int;
 
 var weapons : GameObject[];
 
+var cameraControl : cameraEffects;
+
 function Start () {
 
 }
@@ -27,7 +29,7 @@ function Update () {
 
 	//Debug.Log(Mathf.Sin(Mathf.Deg2Rad * rigidbody2D.rotation));
 
-	playerCamera.transform.position = Vector3(transform.position.x, transform.position.y, playerCamera.transform.position.z);
+	//playerCamera.transform.position = Vector3(transform.position.x, transform.position.y, playerCamera.transform.position.z);
 	//Debug.Log(playerCamera.transform.Translate)
 	//Debug.Log(rigidbody2D.rotation);
 	if(Input.GetAxis("Fire")){
@@ -62,6 +64,8 @@ function addPoints(amount : int){
 
 function hit(damage : int){
 	health -= damage;
+	
+	cameraControl.shake();
 	
 	if(health < 0){
 		health = 0;

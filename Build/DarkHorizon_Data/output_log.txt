@@ -10,16 +10,16 @@ Platform assembly: E:\Unity\DarkHorizon\Build\DarkHorizon_Data\Managed\UnityEngi
 Loading E:\Unity\DarkHorizon\Build\DarkHorizon_Data\Managed\UnityEngine.dll into Unity Child Domain
 Platform assembly: E:\Unity\DarkHorizon\Build\DarkHorizon_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
 Loading E:\Unity\DarkHorizon\Build\DarkHorizon_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-- Completed reload, in  0.187 seconds
+- Completed reload, in  0.188 seconds
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 XInput1_3.dll not found.
 <RI> Input initialized.
-UnloadTime: 3.088511 ms
+UnloadTime: 0.698785 ms
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 369.
-Total: 2.953373 ms (FindLiveObjects: 0.056022 ms CreateObjectMapping: 0.026942 ms MarkObjects: 0.999425 ms  DeleteObjects: 0.024803 ms)
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 394.
+Total: 2.161787 ms (FindLiveObjects: 0.058160 ms CreateObjectMapping: 0.040627 ms MarkObjects: 0.993866 ms  DeleteObjects: 0.025659 ms)
 
 Platform assembly: E:\Unity\DarkHorizon\Build\DarkHorizon_Data\Managed\Boo.Lang.dll (this message is harmless)
 Platform assembly: E:\Unity\DarkHorizon\Build\DarkHorizon_Data\Managed\UnityScript.Lang.dll (this message is harmless)
@@ -52,62 +52,6 @@ Default clip could not be found in attached animations list.
  
 (Filename:  Line: 395)
 
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
 Default clip could not be found in attached animations list.
  
 (Filename:  Line: 395)
@@ -152,314 +96,6 @@ Default clip could not be found in attached animations list.
  
 (Filename:  Line: 395)
 
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
 Default clip could not be found in attached animations list.
  
 (Filename:  Line: 395)
@@ -479,50 +115,6 @@ Default clip could not be found in attached animations list.
 Default clip could not be found in attached animations list.
  
 (Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
 10
  
@@ -644,69 +236,701 @@ Default clip could not be found in attached animations list.
  
 (Filename:  Line: 395)
 
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 395)
-
-10
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-UnloadTime: 1.070843 ms
+UnloadTime: 1.072126 ms
 Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
-Unloading 87 unused Assets to reduce memory usage. Loaded Objects now: 101.
-Total: 1.630641 ms (FindLiveObjects: 0.020527 ms CreateObjectMapping: 0.021810 ms MarkObjects: 0.263434 ms  DeleteObjects: 0.354952 ms)
+Unloading 100 unused Assets to reduce memory usage. Loaded Objects now: 103.
+Total: 1.803841 ms (FindLiveObjects: 0.020955 ms CreateObjectMapping: 0.023093 ms MarkObjects: 0.357945 ms  DeleteObjects: 0.473412 ms)
+
+UnloadTime: 0.610261 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 394.
+Total: 1.332567 ms (FindLiveObjects: 0.046614 ms CreateObjectMapping: 0.029080 ms MarkObjects: 0.307482 ms  DeleteObjects: 0.021382 ms)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+UnloadTime: 1.080679 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 100 unused Assets to reduce memory usage. Loaded Objects now: 103.
+Total: 1.740121 ms (FindLiveObjects: 0.021382 ms CreateObjectMapping: 0.031646 ms MarkObjects: 0.318601 ms  DeleteObjects: 0.449891 ms)
+
+UnloadTime: 0.619241 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 394.
+Total: 1.814532 ms (FindLiveObjects: 0.048324 ms CreateObjectMapping: 0.030791 ms MarkObjects: 0.334424 ms  DeleteObjects: 0.023093 ms)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+30
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+30
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+30
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+UnloadTime: 1.128576 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 100 unused Assets to reduce memory usage. Loaded Objects now: 103.
+Total: 1.627220 ms (FindLiveObjects: 0.021382 ms CreateObjectMapping: 0.023948 ms MarkObjects: 0.233071 ms  DeleteObjects: 0.440055 ms)
 

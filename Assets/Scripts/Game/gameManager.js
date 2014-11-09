@@ -36,14 +36,13 @@ function endGame(){
 	Destroy(playerCamera.gameObject.GetComponent(cameraCollision));
 	Destroy(playerCamera.gameObject.GetComponent(cameraEffects));
 	
-	player.destroy();
-	player = null;
-	
 	over = true;
 	
-	Debug.Log(endScreen.GetComponent(GUIText));
-	endScreen.GetComponentInChildren(GUIText).text = player.money.ToString();
+	endScreen.transform.GetChild(0).GetComponent(GUIText).text = player.money.ToString();
 	endScreen.SetActive(true);
+	
+	player.destroy();
+	player = null;
 }
 
 var native_width : float = 1920;
