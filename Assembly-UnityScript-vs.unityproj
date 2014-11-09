@@ -55,7 +55,10 @@
      <Compile Include="Assets\Scripts\Game\gameManager.js" />
      <Compile Include="Assets\Scripts\Game\gameUI.js" />
      <Compile Include="Assets\Scripts\Game\mainMenu.js" />
+     <Compile Include="Assets\Scripts\Game\randomBunny.js" />
      <Compile Include="Assets\Scripts\Game\runawayCatcher.js" />
+     <Compile Include="Assets\Scripts\Game\spaceStation.js" />
+     <Compile Include="Assets\Scripts\Game\stationGenerator.js" />
      <Compile Include="Assets\Scripts\Pickup\healthPickup.js" />
      <Compile Include="Assets\Scripts\Pickup\pickup.js" />
      <Compile Include="Assets\Scripts\Player\playerController.js" />

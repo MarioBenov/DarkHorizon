@@ -8,6 +8,7 @@ var projectiles : GameObject;
 var playerCamera : Camera;
 
 var endScreen : GameObject;
+var winScreen : GameObject;
 
 private var over = false;
 
@@ -17,11 +18,11 @@ function Start () {
 
 function Update () {
 	if(player != null && player.health <= 0){
-		endGame();
+		loseGame();
 	}
 }
 
-function endGame(){
+function cleanObjects(){
 	enemyGenerator.stop();
 	enemyGenerator.destroy();
 
@@ -36,13 +37,26 @@ function endGame(){
 	Destroy(playerCamera.gameObject.GetComponent(cameraCollision));
 	Destroy(playerCamera.gameObject.GetComponent(cameraEffects));
 	
+	player.destroy();
+	player = null;
+}
+
+function loseGame(){	
 	over = true;
 	
 	endScreen.transform.GetChild(0).GetComponent(GUIText).text = player.money.ToString();
 	endScreen.SetActive(true);
 	
-	player.destroy();
-	player = null;
+	cleanObjects();
+}
+
+function winGame(){
+	over = true;
+	
+	winScreen.transform.GetChild(0).GetComponent(GUIText).text = player.money.ToString();
+	winScreen.SetActive(true);
+	
+	cleanObjects();
 }
 
 var native_width : float = 1920;

@@ -14,7 +14,7 @@ function Start () {
 }
 
 function Update () {
-	if(player.maxHealth - player.health >= healthTolerance ){
+	if(player.maxHealth - player.health >= healthTolerance ){ 
 		var color : Color = hitOverlay.color;
 		color.a =  (1 - ((player.health + 0.0) / (player.maxHealth - healthTolerance)));
 		
